@@ -1,4 +1,4 @@
-# Kunjan Dutiya — Portfolio
+# Kunjan Dutiya - Portfolio
 
 Minimal light-themed static portfolio website.
 
